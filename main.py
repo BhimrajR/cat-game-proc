@@ -233,5 +233,5 @@ while True:
 
             input("Press enter to continue.")
         case "Exit":
-            console.print(f"Goodbye, {name} and their {colour} cat!")
+            console.print(f"Goodbye, {name} the {colour} cat!")
             break
